@@ -7,29 +7,51 @@ To analyze and visualize key business metrics such as total sales, average sales
 -<a href="https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset">Dataset</a>
 
 ##Key Features
+
 Interactive dashboard with filters (Outlet Type, Size, Location)
+
 KPI Cards for quick insights:
+
 Total Sales
+
 Average Sales
+
 Number of Items
+
 Average Rating
+
 Sales trend analysis based on outlet establishment year
+
 Category-wise and fat content analysis
+
 Outlet performance comparison by:
+
 Size
+
 Location Tier
+
 Outlet Type
 
 -<a href="https://github.com/skeethika/Blinkit-Sales-Outlet-Performance-Dashboard-Analysis-/blob/main/BlinkIT%20Grocery%20Data.xlsx">view Dashboard </a>
 
-##Insights Gained
-Tier 3 outlets generate the highest sales contribution
-Supermarket Type 1 outlets dominate overall revenue
-Medium-sized outlets perform better than small and large outlets
-Fruits, Snacks, and Household items are top-selling categories
-Low-fat products contribute significantly to total sales
 
 ##Dashboard
 <img width="1263" height="671" alt="Blinkit Dashboard" src="https://github.com/user-attachments/assets/5f6329ac-5cdd-43cc-b8dd-15c857af06ef" />
+
+##Insights Gained
+
+Tier 3 outlets generate the highest sales contribution
+
+Supermarket Type 1 outlets dominate overall revenue
+
+Medium-sized outlets perform better than small and large outlets
+
+Fruits, Snacks, and Household items are top-selling categories
+
+Low-fat products contribute significantly to total sales
+
+## Conclusion
+
+This dashboard helps identify high-performing outlets, popular product categories, and sales patterns, enabling better strategic planning and business optimization.
 
 
