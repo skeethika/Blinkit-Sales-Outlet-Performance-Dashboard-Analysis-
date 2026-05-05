@@ -1,2 +1,6 @@
 # Blinkit-Sales-Outlet-Performance-Dashboard-Analysis-
-This project presents a comprehensive data analysis and visualization of Blinkit’s retail dataset using Power BI. The dashboard provides actionable insights into sales performance, product trends, and outlet efficiency to support data-driven decision-making.
+##Project Objective
+
+To analyze and visualize key business metrics such as total sales, average sales, item distribution, and outlet performance across different locations and categories.
+## Data Used
+-<a href="https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset">Dataset</a>
