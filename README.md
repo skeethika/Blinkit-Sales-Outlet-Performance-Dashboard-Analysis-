@@ -30,5 +30,6 @@ Fruits, Snacks, and Household items are top-selling categories
 Low-fat products contribute significantly to total sales
 
 ##Dashboard
--<a href="https://github.com/skeethika/Blinkit-Sales-Outlet-Performance-Dashboard-Analysis-/blob/main/Blinkit%20Dashboard.png">
+<img width="1263" height="671" alt="Blinkit Dashboard" src="https://github.com/user-attachments/assets/5f6329ac-5cdd-43cc-b8dd-15c857af06ef" />
+
 
